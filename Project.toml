@@ -1,0 +1,17 @@
+name = "GAP_pkg_gauss_jll"
+uuid = "296a3c51-2614-5f89-afa9-2c5cd84b74d9"
+version = "202200.1100.100+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+GAP_lib_jll = "de1ad85e-c930-5cd4-919d-ccd3fcafd1a3"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+GAP_jll = "5cd7a574-2c56-5be2-91dc-c8bc375b9ddf"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+GAP_lib_jll = "~400.1201.200"
+GAP_jll = "~400.1200.200"
