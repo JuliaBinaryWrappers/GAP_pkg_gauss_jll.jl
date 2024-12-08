@@ -1,69 +1,69 @@
 [[GAP_pkg_gauss]]
 arch = "aarch64"
-git-tree-sha1 = "ccf4c7e08a45f533f4c98de7e27edd7251b5ac0d"
+git-tree-sha1 = "536cd0f4aca2c420f8bdd0ce4e8a77bb5f868079"
 os = "macos"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "374c336b4e9d682c5b90e3abf969f3308c3e07f45c59aa36db9ac0e8df9f198b"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202300.200.400+0/GAP_pkg_gauss.v202300.200.400.aarch64-apple-darwin.tar.gz"
+    sha256 = "f40cd4bf2e66e58ff6732d6e1dd1a950919c7416a3fb62b9daa90ff6ede87cdb"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202400.1100.100+0/GAP_pkg_gauss.v202400.1100.100.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "aarch64"
-git-tree-sha1 = "75e0463794edd445b8a41a4ac21950d34052ed0c"
+git-tree-sha1 = "10c6ec909e275d285b93d6ba08739936c96da2cc"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "8bb56ba433d3da370ff87c2459d146630f787d42bc5cc84f94054e2db4b9759c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202300.200.400+0/GAP_pkg_gauss.v202300.200.400.aarch64-linux-gnu.tar.gz"
+    sha256 = "12db766f29f702d813442f142e587a87c7d15527918ed9002215d143fa6f30bb"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202400.1100.100+0/GAP_pkg_gauss.v202400.1100.100.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "aarch64"
-git-tree-sha1 = "9afaa78680e6c8c5d71ba0b7fc65a5eff5680fe1"
+git-tree-sha1 = "f26021e6f935d1a701d896b7ae9dda03e474df00"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "bc1a0369318358f73d1afc775e99ef5d48e041bc6c4473c05abff2a5e14d777e"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202300.200.400+0/GAP_pkg_gauss.v202300.200.400.aarch64-linux-musl.tar.gz"
+    sha256 = "0e83830255bca58e72a3f5547f71fa4f180ecec3757ed7f03e7e0536c7a0b1e5"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202400.1100.100+0/GAP_pkg_gauss.v202400.1100.100.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "powerpc64le"
-git-tree-sha1 = "d79846ac482189ab5234a0e436eb60407341003a"
+git-tree-sha1 = "fc7445308cb77af07c487d622b0dcdd22729103c"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "63e01db70ae95162c3a92e46d1f3e9f6571aa256df19e076907bd1087e66cc02"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202300.200.400+0/GAP_pkg_gauss.v202300.200.400.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "903b9439e191cb02c2d985ae605c7691d3118eeb43888605d6a1d24e4d79cfe1"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202400.1100.100+0/GAP_pkg_gauss.v202400.1100.100.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "x86_64"
-git-tree-sha1 = "62ab397645c86116e39aad1e3e1edaa56940d15e"
+git-tree-sha1 = "43c3001319166d4a07415041d25646b56467573e"
 os = "macos"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "bab5fb91e40d9eaac64babd0d9b1fb4a60fa086b40f12ab7cac89f78f44e6e75"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202300.200.400+0/GAP_pkg_gauss.v202300.200.400.x86_64-apple-darwin.tar.gz"
+    sha256 = "26882f138ce900bd9c93ad4e467d9dd2c985cdc39d71c27fa6e668cb42b9eaaa"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202400.1100.100+0/GAP_pkg_gauss.v202400.1100.100.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "x86_64"
-git-tree-sha1 = "987928dff4794bfa041609e1ab74c9670b4649ac"
+git-tree-sha1 = "11805394c623558af71c1482777ea5142795b48b"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "f13a29e367317a086dd5b0b17e19874bd15f728c243e8f7fb187326ed34319cb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202300.200.400+0/GAP_pkg_gauss.v202300.200.400.x86_64-linux-gnu.tar.gz"
+    sha256 = "cf901ee949a5a822e3d15c738fabdfc9e93c4905c3a2f176976b58162e1f985e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202400.1100.100+0/GAP_pkg_gauss.v202400.1100.100.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "x86_64"
-git-tree-sha1 = "fdd972ed3e66ab3108d83b3c7a17d8dc41f5ab79"
+git-tree-sha1 = "07ecfe84c30fcbd6755ad0dcf7b2bc2fcaf8b6cf"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "3ffcc75d3c2e5781b67089c0dc7db0c01de31b2f0f6e64491348678bd959b082"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202300.200.400+0/GAP_pkg_gauss.v202300.200.400.x86_64-linux-musl.tar.gz"
+    sha256 = "1cda380ecc0c9610d375a8d2bc4e8c0bd0e5f15df639f935b16eca54b78323e9"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202400.1100.100+0/GAP_pkg_gauss.v202400.1100.100.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "x86_64"
-git-tree-sha1 = "aeb0765c5bb64e1a864fe64b21265fd6383713a3"
+git-tree-sha1 = "a31b3a3ff44be31803c6aa919e11782b55a768b6"
 os = "freebsd"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "d40bc2f96b7ead132ca1f5bd9cec5ab489391bdd4a7c8feaa14f6444d750e504"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202300.200.400+0/GAP_pkg_gauss.v202300.200.400.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "f358bda778b25228c2ad387d39553bc68ab313241f5be568149e3847c7adcb96"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202400.1100.100+0/GAP_pkg_gauss.v202400.1100.100.x86_64-unknown-freebsd.tar.gz"
