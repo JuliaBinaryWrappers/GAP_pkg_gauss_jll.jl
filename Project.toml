@@ -1,6 +1,6 @@
 name = "GAP_pkg_gauss_jll"
 uuid = "296a3c51-2614-5f89-afa9-2c5cd84b74d9"
-version = "202400.1100.101+0"
+version = "202400.1100.102+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,7 +10,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.7.0"
-julia = "1.6"
+julia = "1.10"
 Libdl = "< 0.0.1, 1"
-GAP_jll = "~400.1400.5"
+GAP_jll = "~400.1401.5"
 Artifacts = "< 0.0.1, 1"
